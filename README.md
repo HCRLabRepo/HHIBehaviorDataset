@@ -1,4 +1,4 @@
-# Koc University Human-Human Interaction Behaviour Dataset for Pattern Recognition
+# Human-Human Physical Interaction Behaviour Dataset for Pattern Recognition
 
 This repository contains labelled haptic interaction data collected from Human-Human dyads in a joint object manipulation scenario. We conducted an experimental study to generate data that can be used to identify human-human haptic interaction patterns and learn models for capturing salient characteristics of dyadic interactions.
 
